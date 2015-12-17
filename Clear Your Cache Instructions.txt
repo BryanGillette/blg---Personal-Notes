@@ -1,0 +1,68 @@
+Delete your cache, history, and other browser data
+
+You have control over your browsing data. 
+This data includes things like your browsing and download history and saved form data. 
+Use the "Clear browsing data" dialog to delete all your data or just a portion of your data, collected during a specific period of time.
+
+Delete all your data
+In the top-right corner of Chrome, click the Chrome menu Chrome Menu.
+Select More tools > Clear browsing data.
+In the dialog that appears, select the checkboxes for the types of information that you want to remove.
+Use the menu at the top to select the amount of data that you want to delete. 
+Select beginning of time to delete everything.
+Click Clear browsing data.
+Delete specific items from your browsing data
+Instead of deleting entire categories of your browsing data, you can pick specific items to delete. 
+Click these links to see more instructions.
+
+Specific pages from your browsing history
+Specific downloads
+Specific passwords
+Specific cookies and site data
+Specific Autofill entries
+Details about the data that gets deleted
+The following information is associated with each type of browsing data and applies to Google Chrome on Windows, Mac, Linux, and Chrome OS.
+
+Browsing history: 
+Clearing your browsing history specifically deletes the following:
+Web addresses you've visited from the History page
+Cached text of those pages
+Snapshots of those pages for images that appear on the New Tab page
+Any IP addresses pre-fetched from those pages
+
+Download history: 
+The list of files you've downloaded using Google Chrome is cleared, but the actual files are not removed from your computer.
+Cookies, site, and plug-in data:
+
+Cookies: 
+Files stored on your computer by websites you've visited. 
+These files contain user information, such as preferences for websites or profile information.
+
+Site data: 
+HTML5 enabled storage types including application caches, Web Storage data, Web SQL Database data, and Indexed Database data.
+
+Plug-in data: 
+Any client-side data stored by plug-ins that use the NPAPI ClearSiteData API.
+
+Cache: 
+Text of webpages you've visited in Google Chrome is removed from your computer. 
+Browsers store elements of webpages to speed up the loading of the webpage during your next visit.
+
+Passwords: 
+Records of usernames and passwords are deleted. 
+If you're using a Mac, your password records are deleted from Keychain Access.
+
+Form data: 
+All your Autofill entries and records of text you've entered on web forms are deleted.
+
+Clear data from hosted apps: 
+Data from the apps you’ve added to Chrome from the Chrome Web Store will be erased, such as the local storage used by Gmail Offline.
+
+Deauthorize content licenses: 
+This will prevent Flash Player from playing any previously viewed protected content, such as movies or music that you’ve purchased. 
+It’s recommended to deauthorize content licenses before selling or donating your computer.
+
+
+
+
+

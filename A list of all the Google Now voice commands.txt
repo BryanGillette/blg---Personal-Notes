@@ -1,0 +1,127 @@
+A list of all the Google Now voice commands
+More like this
+youtube music key
+YouTube Music Key is a solid start, but needs more polish to win subscribers
+motohint 3
+Moto Hint review: Motorola is bringing sexy Bluetooth headsets back
+transit
+Transit vs. Moovit: Can either public transit app beat Google Maps?
+
+google now voice primary
+Credit: Jason Cross
+Greenbot | Feb 20, 2015 11:52 AM PT
+Google Now Google speech
+Updated 02/20: Added Wi-Fi, Bluetooth, Flashlight toggle.
+
+You pick up your phone and say “OK Google”... and then what? 
+Your phone is listening. 
+The microphone icon is pulsing. 
+What do you say to your phone? 
+What can you say to it? 
+Google Now’s voice function has become surprisingly robust over the years.
+
+Here’s a list of just about everything you can say to Google Now. 
+Try experimenting with different phrasing, 
+you’ll be surprised how much it understands. 
+The part of the phrase in [brackets] can be replaced with any similar term you choose.
+
+If Google Now doesn’t get your spoken commands right, 
+you can correct it by saying 
+“No, I said...” and trying the phrase again.
+
+		General information
+
+How old is [Neil deGrasse Tyson]?
+Where was [Louis C.K.] born?
+Define [colloquial] (Or “What does [colloquial] mean?”)
+What time is it in [Tokyo]?
+Search for [photography tips]
+Show me pictures of [the Leaning Tower of Pisa]
+Do I need an umbrella today? What’s the weather like? What’s the weather in [New Orleans] [this weekend]?
+What the [Google] stock price? What is [Apple] trading at?
+What’s [182 yards] in [miles]? What is [12 ounces] in [liters]?
+What’s [135] divided by [7.5]? (A great many types of math equations will work.)
+Search [Tumblr] for [cat pictures] (more apps are added to this search-within-apps function all the time)
+
+		Device control
+
+Open [greenbot.com]
+Take a picture (“Take a photo” also works)
+Record a video
+Open [Spotify]
+Turn [on / off] [Bluetooth, Wi-Fi, Flashlight]
+
+		Productivity
+
+What’s the tip for [123 dollars]?
+Set an alarm for [6:30 am]
+Set a timer for [20 minutes]
+Create a calendar event: [Dinner with Glenda, Saturday at 9pm.]
+Remind me to [buy coffee at 7am] (try locations! Remind me to [buy coffee filters at Walgreens])
+What is my schedule for tomorrow? (also: What does my day look like [Friday]?)
+Where’s my package? (tracking confirmation must be in Gmail)
+Make a note: [update my router firmware] (also try “Note to self:” This works with multiple apps, and you can even email yourself!)
+Find [Florence Ion’s] [phone number] (Works with all info in your contacts - addresses, birthdays, etc.)
+Show me my bills. (or: My bills due this week.)
+
+		Communication
+
+Call [Jon] (also works with relationships: Call [sister])
+Text [Susie] [great job on that feature yesterday] (also works with relationships: Text [mom] [I’m not going to be able to pick you up from the airport, period, I’m a bad son, period])
+Send email to [Robert Baratheon], subject, [hunting], message, [I don’t think you should drink so much when you go hunting, period]
+Post to [Twitter]: [Oh my god the Red Wedding episode!]
+What is French for [I am Charlie]?
+
+		Navigation and Travel
+
+Where is the nearest [sushi restauraunt]?
+Navigate to [Willis Tower, Chicago] 
+Directions to [Fisherman’s Wharf] by [bike] (also try “Directions home” or “How do I get home?”)
+Where is [the Louvre]?
+Show me the menu for [Green Chile Kitchen]
+Call [Asian Art Museum]
+Show me my flight info
+Where’s my hotel?
+What are some attractions around here?
+How do you say [good night] in [Japanese]?
+What is [50,000 yen] in [dollars]?
+What’s the flight status of [United] flight [735]?
+Show me restauraunts near my hotel -or- Give me directions back to my hotel (this works if your hotel confirmation was sent to your gmail account)
+
+`		Entertainment
+
+Play some music (opens “I’m feeling lucky” radio station in Google Play Music)
+Next Song / Pause Song
+Play [Happy] (songs must be in Google Play Music on your device)
+Watch [The Lego Movie] (movies and TV must be in your Google Play account)
+What’s this song?
+Listen to TV
+What songs does [Pharrell] sing?
+Read [Hunger Games]
+Did the [Giants] win today? What’s the score in the [Warriors] game?
+What movies are playing [tonight]? Where is [Toy Story] playing?
+\
+		Fun hidden stuff
+
+Many of these deliver funny voice responses, but normal search results. Turn up your sound!
+
+Flip a coin
+Roll dice (rolls a single six-sided die)
+What is the loneliest number?
+Do a barrel roll!
+Askew / Tilt
+Go go Gadget [Spotify]
+When am I?
+Make me a sandwich
+Sudo make me a sandwich
+Who’s on first?
+Up, up, down, down, left, right, left, right
+Tell me a joke
+Who are you?
+Beam me up, Scotty!
+What is [Jennifer Lawrence’s] Bacon number?
+
+
+
+
+   

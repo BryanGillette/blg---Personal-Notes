@@ -1,0 +1,73 @@
+The Best Free Popup Blocker Software of 2015: Clear Up Your Browser Now
+By Jamie Hinks 5 days agoSecurity software 
+Get rid of all those annoying popups in one fell swoop
+
+GO TO PAGE
+Introduction
+
+Smart Popup Blocker
+Smart Popup Blocker
+At one time or another anyone that has visited a website will have been hit by a slew of popups that turn your screen into a virtual version of the Blackpool Illuminations. It's annoying and not only that, it can help malicious viruses to find a way onto your system.
+
+Getting them to disappear can be done on your own time by clicking to close every single popup that's opened, however, using a program to take all the hassle out of that process is a far better idea.
+
+The even better news is that most of the best options available are completely free of charge to anyone that owns a Windows PC. We've picked out five of the best popup blockers that get rid of the most annoying part of the internet at no extra cost.
+=====
+1. AdwCleaner
+
+AdwCleaner
+AdwCleaner
+It might not look like much from the outside, but AdwCleaner doesn't need a shiny paint job to do its work. As soon as the download is completed, AdwCleaner is ready to get to work as it doesn't need to be installed and as such can be deployed from any storage device. This also means that it'll be a handy program for Chromebook owners.
+
+AdwCleaner has four main foes in its crosshairs: Adware, PUP/LPI (Potentially Undesirable Programs), Toolbars and browser hijackers. The first thing it will do is scan your entire PC for adware and hijackers that have found a way into your system. It also goes through your browsers (Internet Explorer, Firefox and Chrome supported) and hounds out toolbars before displaying everything it intends to delete in lists along with tick boxes.
+
+Once you're happy with all that click cleaning and it will eradicate anything bad from the system. Make sure that every other program is closed as once it has finished cleaning, it needs to reboot the machine to finish the process. Upon restart it gives you the results of the cleanup in a Notepad sheet and then fades into the background without as much as an icon to bother you. Lightweight and doesn't clutter up your computer, as a quick solution this is top of the pile.
+
+Warning: Watch out for fake versions of this program in particular and never download it from an untrusted source, as there have been reports of illicit programs being downloaded in recent weeks.
+=====
+2. AdFender
+
+AdFender
+AdFender
+What AdwCleaner lacks in the looks department is not the case where AdFender is concerned and as a cover all bases internet cleaner it packs some punch in both looks and content. Running in the relative background of the system tray, AdFender is a slick operation that works to filter out ads and cookies to create a nicer browsing experience.
+
+Filtering is turned on as default and you can choose from a list of target applications to scan including browsers, P2P programs and for those stuck in the dark ages, instant messengers. The filters themselves are split into lists relating to countries around the world with a run-down of malware domains also able to be filtered out and all this is updated on a regular basis. Cookies, meanwhile, can be blocked on a browser-by-browser basis, AdFender flagging up those it thinks are ad servers with a red font.
+
+When all those have been set up then hit up some sites on your browser and come back to see just how many ads AdFender has blocked (clue: it's a lot).
+
+One rather superfluous part of the program is the history tab that enables you to get rid of browser history for Internet Explorer, Google Chrome and Mozilla Firefox. This doesn't slow down the program in any way, it's just an extra service that can already be achieved in the browser itself.
+
+Everything taken into consideration, AdFender more than deserves its place in our top five.
+=====
+3. Smart Popup Blocker
+
+Smart Popup Blocker
+Smart Popup Blocker
+Popup blockers have been around for years and whilst there are a raft of new kids on the block, Smart Popup Blocker has been there for the long haul and remains the same as when it was first released in 2004. What you get is a stripped down experience, compared to the likes of AdFender, which makes you feel like there is something missing.
+
+Yes it plays a sound when it successfully blocks an ad but there are no fancy options to block and allow certain cookies or sites, and the only thing that you can do is maintain a whitelist of sites that has microsoft.com included as the default.
+
+We're not judging here on looks and if we were Smart Popup Blocker wouldn't be up there with the shiny newer offerings as it hasn't had a makeover for 10 years and looks dated because of that. Although, if you're running an older system and want something simple that makes a noise when it makes a successful block, this is a good bet.
+=====
+4. Ad Muncher
+
+Ad Muncher
+Ad Muncher
+This is the only one of our top five that includes an optional toolbar to allow you to view what has been blocked in the browser itself and, whereas usually we'd be unhappy about the toolbar, Ad Muncher's use of it is a helpful addition. The fact it can be turned on or off is another added bonus.
+
+The program itself is a little harder to get around than some of the alternatives on offer and has the same set of features that you would expect including a list of default filters, with the ability to add more, and a options section that is more extensive than you would expect. Among the options are filters that remove everything from music and sounds on sites to adult content and a number of parameters related to adverts.
+
+It's in dealing with popups that it comes into its own as you can block automatic popup windows, javascript alert popups or messenger service popups, and you can set it up to display a notification when a popup or alert has been blocked.
+
+It functions as an ad and popup blocker effortlessly and if you want detailed options for both then this is the one for you.
+=====
+5. Popup Free
+
+Stealthy Popup Free
+Popup Free
+Popup Free runs as an Internet Explorer browser extension and shows that popup blockers don't have to come in shiny packages or be in your face. Unfortunately, however, if you don't read the product description on the website or know what you are doing then it's unlikely you'll even be able to find it tucked away in the safety menu in the browser.
+
+The interface itself is an extremely simple one with the ability to set the blocking level to low, medium or high depending on your preference and you can set it up to play a sound or show an alert when a popup is blocked.
+
+Sites where you want to see popups can be added to a list of allowed sites and Popup Free can be turned on or off anytime from the safety menu inside Internet Explorer. The way it is hidden inside that menu will still put some people off Popup Free but it does little else wrong in the act of blocking popups.
+=====

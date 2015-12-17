@@ -1,0 +1,39 @@
+
+
+Dear Ms.
+
+    Concerning your SpaceMouse Pro PID# _______________.
+------
+How long has it been working successfully?
+------
+Who is the user?
+------
+From whom did you purchase this SpaceMouse?
+------
+When did you purchase it?
+------
+What application is in use with this SpaceMouse?
+------
+What version of that application?
+------
+What results do you have making use of our Jet Demo?
+------
+What Operating System and version are you using?
+------------
+What machine are you running your system on?
+
+On what port do you plug your SpaceMouse into?
+------
+What release version of our software are you using?
+------
+How are you determining that the system is not recognizing the SpaceMouse?
+------
+Try replugging your SpaceMouse directly into a rear port on your computer while holding buttons, ____ and ____.  Then open the Jet Demo and share what results you have there.
+------
+How does a second working device test on this system, making use of the two button replug procedure described above?
+------
+How does this device test on a second working system, making use of the two button replug procedure described above?
+------
+
+Sincerely,
+Bryan g.

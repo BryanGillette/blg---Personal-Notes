@@ -1,0 +1,101 @@
+How to Turn Gmail Into Your Central Productivity Hub
+45,9236
+mihirpatkar
+Mihir Patkar
+Profile
+
+Mihir Patkar
+Filed to: PRODUCTIVITY	
+GMAIL
+TO-DO LIST
+EMAIL
+BROWSERS
+TAB MANAGEMENT
+CALENDAR
+REMINDERS
+TASKS LIST
+TASKS
+TO-DO
+HASHTAGS
+GOOGLE
+Yesterday 10:00am
+Share to Kinja
+Share to Facebook
+Share to Twitter
+Go to permalink
+How to Turn Gmail Into Your Central Productivity Hub
+EXPAND
+
+Most of us use Gmail as our main email service, but it's so much more. Gmail can act as your to-do list, your notes board, your reminders, your list maker, and all the other things you need to be productive.
+
+Browsers hog computer resources, so opening up too many tabs can strain performance. It's something I hate doing. For the past few months, I've weaned off using to-do list managers, note-taking applications, and other services normally associated with productivity. Instead, I've relied on my Gmail tab as a single productivity hub. Here's how I'm making it work.
+
+
+Five Best To-Do List Managers
+Finding the right tool to track your to-dos is highly personal, and one person's best is…
+Read more
+Use Hashtags for Lists and Notes
+
+How to Turn Gmail Into Your Central Productivity Hub
+
+Hashtags and Gmail's powerful search engine make a great combination. It's something I use regularly to maintain a list of things and for emails that serve as a clipboard.
+
+When you're chatting in Hangouts and someone recommends a good video to watch or a book to read, just tag it by saying #WatchThis or #ReadThis. The first few times, they'll call you a dork. But recommendations flow between friends, so pretty soon, they'll get as accustomed to it as you are. The next time you are wondering what to watch or read, just search for that hashtag.
+
+
+Use Hashtags in IM Conversations to Easily Find Info Later
+Okay, hashtags are kinda silly and overly-promoted in social media. They can be useful though! For…
+Read more
+You can make your own hashtags or create additional ones, like #ShoppingList to use with your significant other. Also, in case you find a good recommendation on a different social network, send yourself an email with it and the appropriate hashtag. Gmail search results include both mails and chats.
+
+Similarly, you can send yourself emails for any notes and add the hashtag #MyNotes in the subject line. Just like that, you have all your notes ready. You can also add two hashtags, such as "#MyNotes #iPhoneReview" for further classification.
+
+Turn Gmail Into a Clipboard
+
+How to Turn Gmail Into Your Central Productivity Hub
+
+I also use a similar strategy to turn Gmail into a temporary clipboard. Don't get me wrong, Pushbullet is great, but I love the simplicity of pasting a photo, chunk of text, links, attachments and anything else into Gmail and opening it on another device. These can also be easily sent to someone else.
+
+
+How to Use Pushbullet to Get Notified of Anything on Any Device
+Pushbullet recently updated with IFTTT support, following Tasker integration last month.…
+Read more
+Unfortunately, this clutters your inbox quickly. Apps like Mailstrom help tame overflowing inboxes, but not in this case. My simple trick has been to use a hashtag for these messages too. It takes almost no time to write #Clipboard quickly in any of these. Once a week, I search for #Clipboard in Gmail and mass delete anything I find there. I've found a week to be enough time for a clipboard item to be irrelevant for me, but you can alter that to your usage.
+
+Get the Calendar Gadget for Reminders and Scheduling
+
+How to Turn Gmail Into Your Central Productivity Hub
+
+Google Calendar is good enough to use as a project management tool and one of the best desktop calendar apps. I use it extensively, but almost entirely through Gmail, thanks to the Google Calendar Gadget, which you can enable in Gmail by browsing to Settings > Labs.
+
+
+How to Use Google Calendar as a Project Management Tool
+Google Calendar is great for managing appointments, but that's not all it can do. The sharing, …
+Read more
+You can see a list of upcoming events and also add new ones through the Quick Add function. It's best used with Google Calendar's natural phrases so your input is minimal. I wasn't good with these before I started using the Calendar gadget, but over time, you learn them and get faster at adding events.
+
+Star "To-Do" Mails and Use Tasks for a Daily To-Do List
+
+How to Turn Gmail Into Your Central Productivity Hub
+1
+
+If you're like me, your email inbox tends to dictate most of the tasks you need to get done in the day. Your email inbox shouldn't be your to-do list, but if you have a to-do list inside your inbox—like Google Tasks—and a way of funneling email to it, that works great.
+
+
+Separate your email from your to-do's
+Click to viewYour boss needs the updated PowerPoint presentation file by Tuesday. Your spouse wants …
+Read more
+Whenever an email lands in my inbox which has an item that I need to do, I star it. You could easily label it too, it's just that I don't use stars for anything else. So starred mails are now my extensive to-do list. Every morning, I open up starred mails and go through the list to see what goes into today's to-do list. I add all those items manually to Google Tasks, which is a mini-window in Gmail, much like any chat box. For the rest of the day, my to-do list is available for me at a glance.
+
+Here's the important part: You need to de-star an email once you add it to Tasks. This is non-negotiable. Otherwise, your starred items inbox will balloon up to a point where you can't separate what's old and what's new. I made that mistake early on, but actively de-starring is the simple and efficient solution.
+
+Manage It All With Quick Links2
+
+Quick Links is another useful gadget in Gmail Labs. I discovered it in the course of writing this article, so it's not already a part of my productivity system, but I'm confident it will be. Quick Links basically lets you create bookmarks for emails or searches within Gmail.
+
+Most of the tips in this article are dependent on searches. I also often search for a few old emails which have information I need to refer to. With Quick Links, it's all one click away, no searching necessary.
+
+Just like that, your Gmail tab can be a personal productivity hub. Plus, since there are no extensions used, you can access it from a browser on any computer. Who says you need a horde of apps to get things done?
+
+Photo by Cairo.
+
