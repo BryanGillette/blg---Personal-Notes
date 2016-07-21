@@ -1,11 +1,5 @@
-A list of all the Google Now voice commands
-More like this
-youtube music key
-YouTube Music Key is a solid start, but needs more polish to win subscribers
-motohint 3
-Moto Hint review: Motorola is bringing sexy Bluetooth headsets back
-transit
-Transit vs. Moovit: Can either public transit app beat Google Maps?
+*A list of all the Google Now voice commands*
+
 
 google now voice primary
 Credit: Jason Cross
@@ -13,62 +7,62 @@ Greenbot | Feb 20, 2015 11:52 AM PT
 Google Now Google speech
 Updated 02/20: Added Wi-Fi, Bluetooth, Flashlight toggle.
 
-You pick up your phone and say ìOK Googleî... and then what? 
+You pick up your phone and say ‚ÄúOK Google‚Äù... and then what? 
 Your phone is listening. 
 The microphone icon is pulsing. 
 What do you say to your phone? 
 What can you say to it? 
-Google Nowís voice function has become surprisingly robust over the years.
+Google Now‚Äôs voice function has become surprisingly robust over the years.
 
-Hereís a list of just about everything you can say to Google Now. 
+Here‚Äôs a list of just about everything you can say to Google Now. 
 Try experimenting with different phrasing, 
-youíll be surprised how much it understands. 
+you‚Äôll be surprised how much it understands. 
 The part of the phrase in [brackets] can be replaced with any similar term you choose.
 
-If Google Now doesnít get your spoken commands right, 
+If Google Now doesn‚Äôt get your spoken commands right, 
 you can correct it by saying 
-ìNo, I said...î and trying the phrase again.
+‚ÄúNo, I said...‚Äù and trying the phrase again.
 
 		General information
 
 How old is [Neil deGrasse Tyson]?
 Where was [Louis C.K.] born?
-Define [colloquial] (Or ìWhat does [colloquial] mean?î)
+Define [colloquial] (Or ‚ÄúWhat does [colloquial] mean?‚Äù)
 What time is it in [Tokyo]?
 Search for [photography tips]
 Show me pictures of [the Leaning Tower of Pisa]
-Do I need an umbrella today? Whatís the weather like? Whatís the weather in [New Orleans] [this weekend]?
+Do I need an umbrella today? What‚Äôs the weather like? What‚Äôs the weather in [New Orleans] [this weekend]?
 What the [Google] stock price? What is [Apple] trading at?
-Whatís [182 yards] in [miles]? What is [12 ounces] in [liters]?
-Whatís [135] divided by [7.5]? (A great many types of math equations will work.)
+What‚Äôs [182 yards] in [miles]? What is [12 ounces] in [liters]?
+What‚Äôs [135] divided by [7.5]? (A great many types of math equations will work.)
 Search [Tumblr] for [cat pictures] (more apps are added to this search-within-apps function all the time)
 
 		Device control
 
 Open [greenbot.com]
-Take a picture (ìTake a photoî also works)
+Take a picture (‚ÄúTake a photo‚Äù also works)
 Record a video
 Open [Spotify]
 Turn [on / off] [Bluetooth, Wi-Fi, Flashlight]
 
 		Productivity
 
-Whatís the tip for [123 dollars]?
+What‚Äôs the tip for [123 dollars]?
 Set an alarm for [6:30 am]
 Set a timer for [20 minutes]
 Create a calendar event: [Dinner with Glenda, Saturday at 9pm.]
 Remind me to [buy coffee at 7am] (try locations! Remind me to [buy coffee filters at Walgreens])
 What is my schedule for tomorrow? (also: What does my day look like [Friday]?)
-Whereís my package? (tracking confirmation must be in Gmail)
-Make a note: [update my router firmware] (also try ìNote to self:î This works with multiple apps, and you can even email yourself!)
-Find [Florence Ionís] [phone number] (Works with all info in your contacts - addresses, birthdays, etc.)
+Where‚Äôs my package? (tracking confirmation must be in Gmail)
+Make a note: [update my router firmware] (also try ‚ÄúNote to self:‚Äù This works with multiple apps, and you can even email yourself!)
+Find [Florence Ion‚Äôs] [phone number] (Works with all info in your contacts - addresses, birthdays, etc.)
 Show me my bills. (or: My bills due this week.)
 
 		Communication
 
 Call [Jon] (also works with relationships: Call [sister])
-Text [Susie] [great job on that feature yesterday] (also works with relationships: Text [mom] [Iím not going to be able to pick you up from the airport, period, Iím a bad son, period])
-Send email to [Robert Baratheon], subject, [hunting], message, [I donít think you should drink so much when you go hunting, period]
+Text [Susie] [great job on that feature yesterday] (also works with relationships: Text [mom] [I‚Äôm not going to be able to pick you up from the airport, period, I‚Äôm a bad son, period])
+Send email to [Robert Baratheon], subject, [hunting], message, [I don‚Äôt think you should drink so much when you go hunting, period]
 Post to [Twitter]: [Oh my god the Red Wedding episode!]
 What is French for [I am Charlie]?
 
@@ -76,29 +70,29 @@ What is French for [I am Charlie]?
 
 Where is the nearest [sushi restauraunt]?
 Navigate to [Willis Tower, Chicago] 
-Directions to [Fishermanís Wharf] by [bike] (also try ìDirections homeî or ìHow do I get home?î)
+Directions to [Fisherman‚Äôs Wharf] by [bike] (also try ‚ÄúDirections home‚Äù or ‚ÄúHow do I get home?‚Äù)
 Where is [the Louvre]?
 Show me the menu for [Green Chile Kitchen]
 Call [Asian Art Museum]
 Show me my flight info
-Whereís my hotel?
+Where‚Äôs my hotel?
 What are some attractions around here?
 How do you say [good night] in [Japanese]?
 What is [50,000 yen] in [dollars]?
-Whatís the flight status of [United] flight [735]?
+What‚Äôs the flight status of [United] flight [735]?
 Show me restauraunts near my hotel -or- Give me directions back to my hotel (this works if your hotel confirmation was sent to your gmail account)
 
 `		Entertainment
 
-Play some music (opens ìIím feeling luckyî radio station in Google Play Music)
+Play some music (opens ‚ÄúI‚Äôm feeling lucky‚Äù radio station in Google Play Music)
 Next Song / Pause Song
 Play [Happy] (songs must be in Google Play Music on your device)
 Watch [The Lego Movie] (movies and TV must be in your Google Play account)
-Whatís this song?
+What‚Äôs this song?
 Listen to TV
 What songs does [Pharrell] sing?
 Read [Hunger Games]
-Did the [Giants] win today? Whatís the score in the [Warriors] game?
+Did the [Giants] win today? What‚Äôs the score in the [Warriors] game?
 What movies are playing [tonight]? Where is [Toy Story] playing?
 \
 		Fun hidden stuff
@@ -114,12 +108,12 @@ Go go Gadget [Spotify]
 When am I?
 Make me a sandwich
 Sudo make me a sandwich
-Whoís on first?
+Who‚Äôs on first?
 Up, up, down, down, left, right, left, right
 Tell me a joke
 Who are you?
 Beam me up, Scotty!
-What is [Jennifer Lawrenceís] Bacon number?
+What is [Jennifer Lawrence‚Äôs] Bacon number?
 
 
 
