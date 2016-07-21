@@ -1,12 +1,5 @@
 *A list of all the Google Now voice commands*
 
-
-google now voice primary
-Credit: Jason Cross
-Greenbot | Feb 20, 2015 11:52 AM PT
-Google Now Google speech
-Updated 02/20: Added Wi-Fi, Bluetooth, Flashlight toggle.
-
 You pick up your phone and say “OK Google”... and then what? 
 Your phone is listening. 
 The microphone icon is pulsing. 
