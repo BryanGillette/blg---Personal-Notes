@@ -16,7 +16,7 @@ If Google Now doesn’t get your spoken commands right,
 you can correct it by saying 
 “No, I said...” and trying the phrase again.
 
-		General information
+		**General information**
 
 How old is [Neil deGrasse Tyson]?
 Where was [Louis C.K.] born?
@@ -30,7 +30,7 @@ What’s [182 yards] in [miles]? What is [12 ounces] in [liters]?
 What’s [135] divided by [7.5]? (A great many types of math equations will work.)
 Search [Tumblr] for [cat pictures] (more apps are added to this search-within-apps function all the time)
 
-		Device control
+	**	Device control**
 
 Open [greenbot.com]
 Take a picture (“Take a photo” also works)
@@ -38,7 +38,7 @@ Record a video
 Open [Spotify]
 Turn [on / off] [Bluetooth, Wi-Fi, Flashlight]
 
-		Productivity
+		**Productivity**
 
 What’s the tip for [123 dollars]?
 Set an alarm for [6:30 am]
@@ -51,7 +51,7 @@ Make a note: [update my router firmware] (also try “Note to self:” This work
 Find [Florence Ion’s] [phone number] (Works with all info in your contacts - addresses, birthdays, etc.)
 Show me my bills. (or: My bills due this week.)
 
-		Communication
+		**Communication**
 
 Call [Jon] (also works with relationships: Call [sister])
 Text [Susie] [great job on that feature yesterday] (also works with relationships: Text [mom] [I’m not going to be able to pick you up from the airport, period, I’m a bad son, period])
@@ -59,7 +59,7 @@ Send email to [Robert Baratheon], subject, [hunting], message, [I don’t think 
 Post to [Twitter]: [Oh my god the Red Wedding episode!]
 What is French for [I am Charlie]?
 
-		Navigation and Travel
+		**Navigation and Travel**
 
 Where is the nearest [sushi restauraunt]?
 Navigate to [Willis Tower, Chicago] 
@@ -75,7 +75,7 @@ What is [50,000 yen] in [dollars]?
 What’s the flight status of [United] flight [735]?
 Show me restauraunts near my hotel -or- Give me directions back to my hotel (this works if your hotel confirmation was sent to your gmail account)
 
-`		Entertainment
+`		**Entertainment**
 
 Play some music (opens “I’m feeling lucky” radio station in Google Play Music)
 Next Song / Pause Song
@@ -88,7 +88,7 @@ Read [Hunger Games]
 Did the [Giants] win today? What’s the score in the [Warriors] game?
 What movies are playing [tonight]? Where is [Toy Story] playing?
 \
-		Fun hidden stuff
+		**Fun hidden stuff**
 
 Many of these deliver funny voice responses, but normal search results. Turn up your sound!
 
